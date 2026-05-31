@@ -18,6 +18,7 @@ font_size = 20
 
 [node name="CanvasLayer" type="CanvasLayer"]
 layer = 99
+process_mode = 3
 
 [node name="ModLoaderNewHooks" type="MarginContainer" parent="."]
 anchors_preset = 15
